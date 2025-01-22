@@ -1,0 +1,28 @@
+#container {
+    background-color: #003049;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container div {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: 0.2s;
+}
+
+#container div:hover {
+    border-radius:0;
+    filter: grayscale(1);
+}
