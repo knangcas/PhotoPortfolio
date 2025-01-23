@@ -1,5 +1,7 @@
 Basic responsive portfolio website. 
 
-Mainly just experimenting. 
+No JS, just HTML and CSS.
+
+Mainly just experimenting.
 
 All photos taken by me. 
